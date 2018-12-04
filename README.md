@@ -8,11 +8,11 @@ import this class on your project and use it.
  <b>creat object</b><br/>
  FontStyle fontStyle=new FontStyle(); <br/>
  3-you can set any TextView ... one for Fife<br/>
-  fontStyle.setFontType(getApplicationContext(),"font Type",txt_one,txt_Two,txt_three,..);<br/>
+<b>  fontStyle.setFontType(getApplicationContext(),"font Type",txt_one,txt_Two,txt_three,..);</b<br/>
 && you can set any Button ... one for Fife<br/>
-  fontStyle.setFontType(getApplicationContext(),"font Type",btn_one,btn_Two,btn_three,..);<br/>
+<b>  fontStyle.setFontType(getApplicationContext(),"font Type",btn_one,btn_Two,btn_three,..);</b<br/>
 && you can set any EditText ... one for Fife<br/>
- fontStyle.setFontType(getApplicationContext(),"font Type",edtxt_one,edtxt_Two,edtxt_three,..);<br/>
+<b> fontStyle.setFontType(getApplicationContext(),"font Type",edtxt_one,edtxt_Two,edtxt_three,..);</b<br/>
 
  
   
