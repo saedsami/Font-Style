@@ -6,7 +6,7 @@ import this class on your project and use it.
 1- import the class FontStyle in your project <br/>
 2-any classin your project can you use class FontStyle<br/>
  <b>creat object</b><br/>
-</b> FontStyle fontStyle=new FontStyle();</b> <br/>
+<b> FontStyle fontStyle=new FontStyle();</b> <br/>
  3-you can set any TextView ... one for Fife<br/>
 <b>  fontStyle.setFontType(getApplicationContext(),"font Type",txt_one,txt_Two,txt_three,..);</b><br/>
 && you can set any Button ... one for Fife<br/>
